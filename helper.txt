@@ -1,0 +1,11 @@
+After Docker ps
+
+sudo nano /etc/hosts
+
+127.0.0.1   project.servername.nginx.config
+
+sudo docker exec -it forum_php_1 bash
+
+composer install
+
+
