@@ -1,13 +1,13 @@
 
 ###> symfony/framework-bundle ###
-/.env.local
-/.env.local.php
-/.env.*.local
+/forumApi/.env.local
+/forumApi/.env.local.php
+/forumApi/.env.*.local
 /config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
 /public/storage/
-/var/
-/vendor/
+/forumApi/var/
+/forumApi/vendor/
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
